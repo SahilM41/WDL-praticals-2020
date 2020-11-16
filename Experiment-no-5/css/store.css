@@ -1,0 +1,25 @@
+/* .carousel-item{
+    background-size: contain;
+    background-position: center;
+    box-shadow: 10px 10px 8px #888888 !important;
+} */
+
+
+ul .list{
+    background-color: aqua;
+    list-style-type: none !important;
+}
+ul > li img {
+    
+    height: 20px;
+}
+.shadow{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.products_card{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
